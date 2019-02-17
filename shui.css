@@ -1,0 +1,43 @@
+h1{
+    background-color: rgba(136, 127, 255, 0.336);                 
+    text-align: center;
+}
+button {
+    color: #ffffff;
+    width: 100px;
+    height: 30px;
+    border-radius:5px;
+    border: 1px solid blue;
+    background: -webkit-linear-gradient(top,#66B5E6,#2e88c0);
+}
+#demo1 {
+    background-color: #2e88c0;
+    width: 200px;
+    height: 460px;
+}
+#demo2 {
+    background-color: red;
+    width: 200px;
+    height: 460px;
+}
+#demo3 {
+    background-color: greenyellow;
+    width: 200px;
+    height: 460px;
+}
+#demo4 {
+    background-color: green;
+    width: 200px;
+    height: 460px;
+}
+#demo5 {
+    background-color: pink;
+    width: 200px;
+    height: 460px;
+}
+a{
+    font-size: 30px;
+}
+a:hover {
+    color: blue;
+}
